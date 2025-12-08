@@ -1,4 +1,4 @@
-name: deploy TongView
+name: deploy SaintMakeveli
 
 on:
   push:
